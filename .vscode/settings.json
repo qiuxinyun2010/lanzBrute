@@ -5,6 +5,14 @@
         "utility": "cpp",
         "variant": "cpp",
         "*.tcc": "cpp",
-        "core": "cpp"
+        "core": "cpp",
+        "bitset": "cpp",
+        "random": "cpp",
+        "iostream": "cpp",
+        "mutex": "cpp",
+        "string": "cpp",
+        "fstream": "cpp",
+        "iosfwd": "cpp",
+        "ostream": "cpp"
     }
 }
